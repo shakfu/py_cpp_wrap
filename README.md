@@ -6,6 +6,10 @@ The [adaptagrams](https://github.com/mjwybrow/adaptagrams) c++ library was used 
 
 All rights reserved to the respective authors of the tools and libraries reviewed and used in this project.
 
+Please note that this repo contains experiements, incomplete experiments and snapshots of experiments. It probably contains bugs.
+
+If you are interested in a `pybind11` wrapper of the hola library from [adaptagrams](https://github.com/mjwybrow/adaptagrams then please see the [pyhola](https://github.com/shakfu/pyhola) project.
+
 ## Background
 
 The reason this project came to light because I was looking for layout algorithms to automatically layout [Max/MSP](https://cycling74.com/products/max) patchers generated from my [py2max](https://github.com/shakfu/py2max) project and found the `adaptagrams` project to have a very promising algorithm which is explained in [this](https://skieffer.info/publications/kieffer2016hola.pdf) paper and which I wanted to test out.
