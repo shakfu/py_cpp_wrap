@@ -6,9 +6,9 @@ The [adaptagrams](https://github.com/mjwybrow/adaptagrams) c++ library was used 
 
 All rights reserved to the respective authors of the tools and libraries reviewed and used in this project.
 
-Please note that this repo contains experiements, incomplete experiments and snapshots of experiments. It probably contains bugs.
+**CAVEATS**: Please note that this repo contains experiements, incomplete experiments and snapshots of experiments. It probably contains bugs.
 
-If you are interested in a `pybind11` wrapper of the hola library from [adaptagrams](https://github.com/mjwybrow/adaptagrams then please see the [pyhola](https://github.com/shakfu/pyhola) project.
+If you are interested in a `pybind11` wrapper of the hola library from [adaptagrams](https://github.com/mjwybrow/adaptagrams) then please see the [pyhola](https://github.com/shakfu/pyhola) project.
 
 ## Background
 
